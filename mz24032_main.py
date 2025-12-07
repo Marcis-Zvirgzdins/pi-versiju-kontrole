@@ -8,3 +8,4 @@ print(add(a, b))
 print(add3(a, b, 2))
 
 print(mult(a, b))
+print(mult3(a, b, 2))
