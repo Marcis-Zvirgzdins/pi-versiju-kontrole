@@ -7,3 +7,4 @@ b = 5
 print(add(a, b))
 
 print(mult(a, b))
+print(mult3(a, b, 2))
